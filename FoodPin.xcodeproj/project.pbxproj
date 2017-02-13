@@ -64,14 +64,14 @@
 			children = (
 				DD822E4E1E360CCD0014B295 /* AppDelegate.swift */,
 				DD822E521E360CCD0014B295 /* Main.storyboard */,
+				DDFAE6CE1E4C9F7E009CB581 /* Restaurant.swift */,
 				DD822E601E360ED30014B295 /* RestaurantTableViewController.swift */,
-				DDFAE6CC1E4C8F0F009CB581 /* RestaurantDetailViewController.swift */,
 				DD822E621E36366D0014B295 /* RestaurantTableViewCell.swift */,
+				DDFAE6CC1E4C8F0F009CB581 /* RestaurantDetailViewController.swift */,
+				DDFAE6D01E4F1B01009CB581 /* RestaurantDetailTableViewCell.swift */,
 				DD822E551E360CCD0014B295 /* Assets.xcassets */,
 				DD822E571E360CCD0014B295 /* LaunchScreen.storyboard */,
 				DD822E5A1E360CCD0014B295 /* Info.plist */,
-				DDFAE6CE1E4C9F7E009CB581 /* Restaurant.swift */,
-				DDFAE6D01E4F1B01009CB581 /* RestaurantDetailTableViewCell.swift */,
 			);
 			path = FoodPin;
 			sourceTree = "<group>";
